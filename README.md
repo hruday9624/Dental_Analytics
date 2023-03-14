@@ -2,7 +2,7 @@
 
 Dental Hospital Analytics Project
 
-This project analyzes data from a dental hospital to gain insights into customer demographics and appointments. The data consists of various features, including patient age, gender, appointment date and time, and more.
+This project analyzes the operational and financial performance of a dental clinic by examining key metrics such as patient flow, revenue, expenses, and treatment success rates. The goal is to identify areas for improvement and optimize clinic operations to enhance patient experience and profitability. The project uses data visualization techniques to present insights and trends in a clear and accessible way. The dataset used for this project is the clinic's internal records of patient visits, treatments, and financial transactions. 
 
 Table of Contents
 
@@ -29,12 +29,6 @@ To run this project, you'll need Python 3 and several Python libraries, includin
 pip install pandas numpy matplotlib seaborn
 ```
 
-Once you've installed the necessary libraries, you can clone this repository to your local machine:
-
-```python
-git clone [https://github.com/yourusername/dental-analytics-project.git](https://github.com/yourusername/dental-analytics-project.git)
-```
-
 ### Usage
 
 To use this project, simply run the Jupyter notebook dental-analytics.ipynb. This notebook contains all the code for loading and analyzing the data, as well as generating visualizations.
@@ -58,9 +52,9 @@ This project uses exploratory data analysis (EDA) techniques to gain insights in
 
 The EDA process includes the following steps:
 
-Data loading and cleaning
-Exploratory data analysis
-Data visualization
+- Data loading and cleaning
+- Exploratory data analysis
+- Data visualization
 
 ### Results
 
