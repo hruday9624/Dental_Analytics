@@ -35,7 +35,7 @@ To use this project, simply run the Jupyter notebook dental-analytics.ipynb. Thi
 
 ### Data
 
-The data for this project is stored in the file dental-hospital-data.csv. This file contains information on patient demographics and appointments, including the following fields:
+The dental clinic dataset consists of 260,952 rows and 93 columns. Out of the available columns, 49 were selected for further analysis and visualization, based on their relevance and value addition to the project. This dataset includes information related to patient appointments, such as appointment date and time, doctor information, and patient demographics. It also contains information on previous patient appointments, including show and no-show counts, as well as appointment cancellations. This dataset provides valuable insights into patient behavior and can be used to optimize clinic operations, improve patient outcomes, and enhance the patient experience.
 
 - PACT_ID: Patient appointment identification number.
 - HOSPITAL_LEVEL: The level of the hospital.
